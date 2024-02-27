@@ -1,0 +1,6 @@
+[submodule "Core"]
+	path = Core
+	url = https://github.com/notoriousgtw/NotoEngineCore
+[submodule "Editor"]
+	path = Editor
+	url = https://github.com/notoriousgtw/NotoEngineEditor
